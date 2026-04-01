@@ -1,8 +1,6 @@
 ## Interface: 11200
-## Title: Guild Plus Invite
 ## Notes: Auto invite guild members who type + in guild chat
 ## Author: Poleposition
-## Version: 1.0
 ## SavedVariables: GPI_ENABLED
 
 GuildPlusInvite.lua
